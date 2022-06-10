@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Jimenez. @michael-jimenez13
 - 👀 I’m interested in developing sensors and applying concurrent AI tools to enhace technoligcal capabilities on brain informatics
-- 🌱 I’m currently learning computer vision with machine learning 
+- 🌱 I’m currently learning computer vision, coarse graining, neural networks, and deep learning  with machine learning (using pytorch and tensorflow). I have a wide variety of interest from genomes, molecular structures in mosfets, computer  design/architecture, neuroscience, analog design, three-dimensional structures of proteins, neuromorphic computinng, space-time theorems, brain computer interface,  the world of micro-cosmos, robotoc design, and much more .  
 - 💞️ I’m looking to collaborate on the existing pathways to adopting advanced sensor detection on the brain and as well other health related issues
 - 📫 You can reach me at jmz.michael.13@gmail.com 
 
